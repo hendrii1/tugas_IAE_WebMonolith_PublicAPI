@@ -12,23 +12,3 @@ body {
     height: 100vh; 
     overflow-y: hidden;
 }
-
-.footer {
-    width: 100%;
-    height: 35px;
-    background-color: #012443;
-    color: white;
-    position: fixed;
-    bottom: 0;
-    text-align: center;
-    font-family: 'Montserrat', sans-serif;
-    padding-top: 8px;
-}
-
-.footer h6 {
-    font-weight: 100;
-}
-
-.footer span {
-    color: crimson;
-}
